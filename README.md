@@ -104,6 +104,22 @@ If you want to use this readme as a **template**, that's fine.
   <a href="mailto:lens.goodnestrace@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
+## 🤝 Contribuidores
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <div align="center">
+      <a href="https://github.com/deepseek-ai">
+        <img src="https://avatars.githubusercontent.com/deepseek-ai?s=100" width="100" style="border-radius: 50%;" alt="deepseek-ai"/>
+        <br />
+        <strong>Deepseek AI</strong>
+        <br />
+      </a>
+    </div>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5865F2&section=footer&reversal=false&textBg=false&fontColor=000000&fontSize=0&fontAlign=50&animation=fadeIn&rotate=0&stroke=5865f2&strokeWidth=4" />
