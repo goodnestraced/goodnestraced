@@ -124,3 +124,6 @@ If you want to use this readme as a **template**, that's fine.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5865F2&section=footer&reversal=false&textBg=false&fontColor=000000&fontSize=0&fontAlign=50&animation=fadeIn&rotate=0&stroke=5865f2&strokeWidth=4" />
 </p>
+<p align="center">
+  <img src="https://lens-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&section=header" />
+</p>
